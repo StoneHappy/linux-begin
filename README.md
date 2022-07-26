@@ -1,4 +1,4 @@
-# my_cpp_empty_project
+# learn linux 
 
 
 ## how to use it
@@ -7,10 +7,8 @@
 
 git clone --recursive https://github.com/StoneHappy/linux-begin.git 
 
-# create buid dir
+cd linux-begin
 
-mkdir build
+./build.sh
 
-# generate build project
-cmake ..
 ```
